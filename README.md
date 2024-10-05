@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Who's Stefania and What's She Building? 👩🏽‍🏫 📊
-
-Hi 👋
+# Hello World! 👋
 
 💻 I'm a data scientist and Python developer based in Greece with 2 years of experience specializing in Machine Learning, NLP, and Large Language Models. I automate processes and solve complex problems using Python, SQL, and Google Cloud. Known as a self-starter and problem solver, I thrive in collaborative, innovative environments.
 
@@ -30,20 +28,27 @@ Hi 👋
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h2 align="center">Technology Stack</h2>
 
-### Technologies I Use
+<div align="center">
 
-| **Languages**  | **Frameworks**  | **Databases** | **Cloud Platforms** |
-| :------------: | :-----------------------: | :-----------: | :-----------------: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> | <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="bigquery" width="30" height="30"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> |
-| <img src="https://github.com/user-attachments/assets/87693075-cab5-4bb6-914e-7ca58d9c9ce9" alt="r" width="30" height="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> | | | |
+| **Languages**  | **Frameworks**  | **Databases** | **Cloud Platforms** | **Tools** |
+| :------------: | :-----------------------: | :-----------: | :-----------------: | :-----------------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> | <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="bigquery" width="30" height="30"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> |
+| <img src="https://github.com/user-attachments/assets/87693075-cab5-4bb6-914e-7ca58d9c9ce9" alt="r" width="30" height="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> | | <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/hva1nqwzqbhjm4g75ccc" alt="neo4j" width="30" height="30"/> | | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> | | | | |
 
-<!-- GitHub Stats -->
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=stefsyrsiri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=stefsyrsiri&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=stefsyrsiri&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+</div>
 
+<h2 align="center">Github Stats</h2>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=stefsyrsiri&show_icons=true&theme=vue-dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stefsyrsiri&hide=html,css,java,shaderlab,kotlin,hlsl&theme=vue-dark">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=stefsyrsiri&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
+</p>
 
