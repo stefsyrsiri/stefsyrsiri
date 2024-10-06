@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h2 align="center">Github Stats</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=stefsyrsiri&show_icons=true&theme=vue-dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stefsyrsiri&theme=vue-dark&include_all_commits=true" width=375>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stefsyrsiri&theme=vue-dark&include_all_commits=true" width=305>
 </p>
 
 <p align = "center">
