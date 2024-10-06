@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello World! 👋
 
-💻 I'm a data scientist and Python developer based in Greece with 2 years of experience specializing in Machine Learning, NLP, and Large Language Models. I automate processes and solve complex problems using Python, SQL, and Google Cloud. Known as a self-starter and problem solver, I thrive in collaborative, innovative environments.
+💻 I'm a data scientist and Python developer based in Greece specializing in Machine Learning, NLP, and Large Language Models. I automate processes and solve complex problems using Python, SQL, and Google Cloud. Known as a self-starter and problem solver, I thrive in collaborative, innovative environments.
 
 <img src="https://github.com/user-attachments/assets/7a81c6bd-be3b-4050-9a77-463530531a47" alt="Stefania Octocat" style="height: 200px; width:200px" align="left"/>
 
