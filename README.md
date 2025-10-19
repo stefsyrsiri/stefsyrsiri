@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 🎓 I hold a bachelor’s in Economics and Administration and am pursuing a master's in Data Science, with my thesis focusing on evaluating automatic summaries of financial documents.
 
-🎨 Outside work, I enjoy digital art, gaming, and short coding contests.
-
-🌍 I'm an Erasmus+ Buddy for ESN
-
 👋 Connect with me on <a href="https://www.linkedin.com/in/stefania-syrsiri/">LinkedIn</a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
