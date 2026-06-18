@@ -14,13 +14,23 @@ Here are some ideas to get you started:
 -->
 # Hello World! 👋
 
-💻 I'm a data scientist and Python developer based in Greece specializing in Machine Learning, NLP, and Large Language Models. I automate processes and solve complex problems using Python, SQL, and Google Cloud. Known as a self-starter and problem solver, I thrive in collaborative, innovative environments.
+I'm Stefania, a Data Scientist (MSc) and AI/ML Engineer specializing in Machine Learning, NLP, and Large Language Models. I have professional experience in product AI feature development, EU-funded RnD projects, and multi-cultural environments working effectively both in a team and independently. I get excited about product development, hackathons, and AI ethics.
 
 <img src="https://github.com/user-attachments/assets/7a81c6bd-be3b-4050-9a77-463530531a47" alt="Stefania Octocat" style="height: 200px; width:200px" align="left"/>
 
-🎓 I hold a bachelor’s in Economics and Administration and am pursuing a master's in Data Science, with my thesis focusing on evaluating automatic summaries of financial documents.
+### Career and academic fun facts, 'cause I'm a yapper
 
-👋 Connect with me on <a href="https://www.linkedin.com/in/stefania-syrsiri/">LinkedIn</a>
+🎓 MSc in Data Science. Thesis work on summarization meta-evaluation of evaluation metrics.
+
+🎓 I used to tutor my friends and other classmates to help pass the Statistics exams of my bachelor's.
+
+🎓 I was the Valedictorian of my bachelor's. I received an award for my high academic stress.
+
+🎓 My first ever courses in Python, Data Science, and Machine Learning were all in Italian during my Erasmus+.
+
+🎓 Background in Economics. If I weren't an engineer, I'd probably specialize in business intelligence, market research, and entrepreneurship.
+
+🎓 I've spent time drawing in class throughout all my school and academic years. I stopped when I started my master's.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,10 +41,12 @@ Here are some ideas to get you started:
 | **Languages**  | **Frameworks**  | **Databases** | **Cloud Platforms** | **Tools** |
 | :------------: | :-----------------------: | :-----------: | :-----------------: | :-----------------: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> | <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="bigquery" width="30" height="30"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> |
-| <img src="https://github.com/user-attachments/assets/87693075-cab5-4bb6-914e-7ca58d9c9ce9" alt="r" width="30" height="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> | | <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/hva1nqwzqbhjm4g75ccc" alt="neo4j" width="30" height="30"/> | | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> | | | | |
+| <img src="https://github.com/user-attachments/assets/87693075-cab5-4bb6-914e-7ca58d9c9ce9" alt="r" width="30" height="30"/> | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="30" height="30"/> | <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" alt="qdrant" width="30" height="30"/> | | |
+| | <img src="https://miro.medium.com/1*qfwhSex9WphMoJeSGVw29A.png" alt="transformers" width="30" height="30"/> | | | |
+| | <img src="https://github.com/mlflow-automation.png" alt="mlflow" width="30" height="30"/> | | | |
+| | <img src="https://assets.zenml.io/webflow/64a817a2e7e2208272d1ce30/986b08b5/68adafb26944ec2a46778809_langchain.png" alt="langchain" width="30" height="30"/> | | | | |
+| | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="langgraph" width="30" height="30"/> | | | | |
+| | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/vllm-color.png" alt="vllm" width="30" height="30"/> | | | | |
 
 </div>
 
@@ -44,7 +56,17 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stefsyrsiri&theme=vue-dark&include_all_commits=true&hide=makefile" width=377">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=stefsyrsiri&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
-</p>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## More yapping
+
+🧨 I have an increasing list of fun personal projects I want to develop. I usually design my own UI too.
+
+🎨 When I was 12 I started drawing digitally on Deviantart Muro. I'd use a wireless mouse out of desperation.
+
+👀 When we talk, I often get distracted thinking how I could draw you.
+
+🥊 I took on Muay Thai, when I got disappointed trying to find a decent dancing class.
+
+🎶 At karaoke parties I sing even when it's not my turn.
 
