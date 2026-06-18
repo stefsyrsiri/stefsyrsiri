@@ -34,7 +34,7 @@ I'm Stefania, a Data Scientist (MSc) and AI/ML Engineer specializing in Machine 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="center">Technology Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
