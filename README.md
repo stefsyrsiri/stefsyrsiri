@@ -28,7 +28,7 @@ I'm Stefania, a Data Scientist (MSc) and AI/ML Engineer specializing in Machine 
 
 🎓 My first ever courses in Python, Data Science, and Machine Learning were all in Italian during my Erasmus+.
 
-🎓 Background in Economics. If I weren't an engineer, I'd probably specialize in business intelligence, market research, and entrepreneurship.
+🎓 Background in Economics. If I weren't an engineer, I'd probably specialize in business intelligence and entrepreneurship.
 
 🎓 I've spent time drawing in class throughout all my school and academic years. I stopped when I started my master's.
 
