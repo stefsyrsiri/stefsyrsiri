@@ -20,7 +20,7 @@ I'm Stefania, a Data Scientist (MSc) and AI/ML Engineer specializing in Machine 
 
 ### Career and academic fun facts, 'cause I'm a yapper
 
-🎓 MSc in Data Science. Thesis work on summarization meta-evaluation of evaluation metrics.
+🎓 MSc in Data Science. Thesis work on meta-evaluation of summarization evaluation metrics.
 
 🎓 I used to tutor my friends and other classmates to help pass the Statistics exams of my bachelor's.
 
